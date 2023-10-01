@@ -65,7 +65,7 @@ window.onload = function() {
     twitter: "",
     github: "",
     linkedin: "",
-    instagram: "",
+    instagram: " ",
     name: "Your Name here!!",
     lastName: "",
     role: "Web Developer",
